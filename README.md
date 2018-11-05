@@ -1,4 +1,3 @@
-# Yaf
 
 # 简介
 项目由 Yaf + Smarty + PDO 组成
